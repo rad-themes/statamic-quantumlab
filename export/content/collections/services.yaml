@@ -1,0 +1,9 @@
+{
+  "title": "Research",
+  "template": "services-detail",
+  "layout": "layout",
+  "route": "{mount}/{slug}",
+  "mount": "9748b925-e6e1-54fd-a73f-e80dec515fb4",
+  "date": false,
+  "revisions": false
+}

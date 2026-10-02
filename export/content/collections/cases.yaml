@@ -1,0 +1,9 @@
+{
+  "title": "Models",
+  "template": "cases-detail",
+  "layout": "layout",
+  "route": "{mount}/{slug}",
+  "mount": "f0436cd5-6e31-56a3-8a9f-f828dade111b",
+  "date": false,
+  "revisions": false
+}

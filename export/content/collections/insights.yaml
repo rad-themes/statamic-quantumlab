@@ -1,0 +1,9 @@
+{
+  "title": "Publications",
+  "template": "insights-detail",
+  "layout": "layout",
+  "route": "{mount}/{slug}",
+  "mount": "fa24f196-f6d3-5df1-bd9f-d576fb8cb36e",
+  "date": false,
+  "revisions": false
+}
