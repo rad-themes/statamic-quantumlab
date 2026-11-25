@@ -1,11 +1,11 @@
 {
-    "name": "rad-themes/statamic-quantumlab",
+    "name": "rad-themes/quantumlab",
     "description": "An AI research and deep tech lab starter kit for Statamic by Rad Themes.",
     "type": "statamic-starter-kit",
     "license": "proprietary",
     "keywords": ["statamic", "starter-kit", "research", "ai", "tailwindcss"],
     "authors": [{"name": "Rad Themes", "homepage": "https://statamic.com/creators/rad-themes"}],
-    "support": {"issues": "https://github.com/rad-themes/statamic-quantumlab/issues"},
+    "support": {"issues": "https://github.com/rad-themes/quantumlab/issues"},
     "require": {"php": "^8.3", "statamic/cms": "^6.34"},
     "extra": {
         "statamic": {

@@ -20,8 +20,8 @@ Build a scientific deep tech studio website with research tracks, foundation mod
 ## Installation
 
 ```sh
-composer config repositories.quantumlab path /absolute/path/to/statamic-quantumlab
-php please starter-kit:install rad-themes/statamic-quantumlab --local --without-user --clear-site
+composer config repositories.quantumlab path /absolute/path/to/quantumlab
+php please starter-kit:install rad-themes/quantumlab --local --without-user --clear-site
 php please make:user
 php please stache:refresh
 npm ci
